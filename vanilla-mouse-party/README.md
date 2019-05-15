@@ -201,7 +201,7 @@ function draw(){
 
 ### Summary
 
-In this step we'll start our interval by creating an event listener that will listen for our mouse to move into the browser window.
+In this vent listener that will listen for our mouse to move into the browser window.
 
 ### Instructions
 
